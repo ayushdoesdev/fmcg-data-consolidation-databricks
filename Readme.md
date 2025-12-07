@@ -2,6 +2,10 @@
 
 *A real-world data engineering project using Lakehouse + Medallion Architecture*
 
+Built an end-to-end data engineering project focused on consolidating data in the FMCG domain. The objective was to simulate a real industry scenario where a large retail company acquires a smaller one and needs a unified data foundation for analytics.
+
+I built a lakehouse-based ETL pipeline using Databricks, Python, SQL, Spark, and Amazon S3. The pipeline follows the Medallion architecture and processes raw OLTP data into curated Gold layer tables that support business reporting. The project also includes a dimensional data model, automated jobs for incremental and full loads, and a sales insights dashboard built from the final Gold tables.
+
 ## Project Overview
 
 In the FMCG domain, large retail organizations often grow through acquisitions. When a big retail company acquires a smaller one, their data ecosystems usually differ in structure, format, and technology.
