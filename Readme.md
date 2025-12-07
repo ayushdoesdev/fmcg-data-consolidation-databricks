@@ -27,9 +27,9 @@ The pipeline extracts, transforms, and loads data into **Bronze → Silver → G
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
-### 🔹 **Tech Stack**
+### **Tech Stack**
 
 * **Python** – Data processing, orchestration scripts
 * **SQL** – Transformations and Gold layer modeling
