@@ -14,16 +14,16 @@ The pipeline extracts, transforms, and loads data into **Bronze → Silver → G
 ## Project Screenshots
 
 ### Dashboard
-<img src="dashboard.png" width="900"/>
+<img src="images/dashboard.png" width="900"/>
 
 ### Data Model
-<img src="database.png" width="600"/>
+<img src="images/database.png" width="600"/>
 
 ### Databricks Jobs Pipeline
-<img src="jobs.png" width="900"/>
+<img src="images/jobs.png" width="900"/>
 
 ### Project Structure
-<img src="structure.png" width="600"/>
+<img src="images/structure.png" width="600"/>
 
 ---
 
