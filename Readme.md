@@ -70,11 +70,11 @@ The pipeline extracts, transforms, and loads data into **Bronze → Silver → G
 
 ## Features
 
-* ✔️ End-to-end ETL pipeline from raw ingestion to BI-ready tables
-* ✔️ Lakehouse storage using **Amazon S3**
-* ✔️ Data standardization across two different companies
-* ✔️ Scalable transformation engine using **Apache Spark**
-* ✔️ Medallion architecture for clean, maintainable pipelines
-* ✔️ Business insights dashboard powered by **Genie + BI tools**
+* End-to-end ETL pipeline from raw ingestion to BI-ready tables
+* Lakehouse storage using **Amazon S3**
+* Data standardization across two different companies
+* Scalable transformation engine using **Apache Spark**
+* Medallion architecture for clean, maintainable pipelines
+* Business insights dashboard powered by **Genie + BI tools**
 
 
