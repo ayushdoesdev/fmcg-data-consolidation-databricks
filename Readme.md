@@ -77,24 +77,4 @@ The pipeline extracts, transforms, and loads data into **Bronze → Silver → G
 * ✔️ Medallion architecture for clean, maintainable pipelines
 * ✔️ Business insights dashboard powered by **Genie + BI tools**
 
----
-
-## Example KPIs in Gold Layer
-
-* Total Sales Revenue
-* Inventory Turnover Rate
-* Daily/Weekly/Monthly Sales Trends
-* Top-performing FMCG categories
-* Store-level growth comparison between the two companies
-
----
-
-## BI Dashboard Output
-
-The BI dashboard visualizes:
-
-* Consolidated sales across both companies
-* Category-level performance
-* Inventory health
-* Forecasting insights
 
