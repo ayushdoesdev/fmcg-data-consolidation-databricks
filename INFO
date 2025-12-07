@@ -1,0 +1,13 @@
+Created AWS s3 bucket with name: sportbar-dataengg-fmcg-project
+Then upload the childs data
+Then come back to databricks and add external data from AWS S3
+
+and then create stack from Databricks to AWS
+Stack name I created is -> databricks-s3-ingest-dc2c0-sportbar-fmcg
+so remember the S3 connection with databricks is a direct connection and everything deleted from here will also be deleted from there
+and then move the s3 data to bronze layer
+
+
+https://youtu.be/U6ZUKWdfSLY
+
+Till 1:40
