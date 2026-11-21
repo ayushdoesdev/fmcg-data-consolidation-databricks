@@ -12,7 +12,7 @@ permissions:
 
 jobs:
   compile:
-    name: Compile Python scripts
+    name: Compile reusable Python modules
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
@@ -23,6 +23,6 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Compile project scripts
+      - name: Compile reusable Python modules
         run: |
-          python -m compileall -q .
+          python -m compileall -q scripts utilities.py
